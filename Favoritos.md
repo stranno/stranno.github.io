@@ -1,41 +1,41 @@
-💭 CÓMICS 💭
+# 💭 CÓMICS 💭
 
-DESCARGA
+## DESCARGA
 
-[Comic Book +](https://comicbookplus.com/) (EN)
-ComicSnake (EN)
-Comics ID
-Digital Comic Museum (EN)
-Los Cómics de Machete
-Tierra de Larabeau
+[Comic Book +](https://comicbookplus.com/) (EN)  
+[ComicSnake](https://comicsnake.com/) (EN)  
+[Comics ID](http://www.comicsid.com/inicio)  
+[Digital Comic Museum](https://digitalcomicmuseum.com/) (EN)  
+[Los Cómics de Machete](https://loscomicsdemachete.blogspot.com/?view=magazine)  
+[Tierra de Larabeau](https://larabeau169.blogspot.com/)
 
-PENDIENTES
+## PENDIENTES
 
-Batman Silver Age
-Baffling Mysterie
-Carrillo
-Dossier Negro
-Flash Gordon
-Forbidden Worlds
-Iznogud
-Judge Dredd – The Complete Case Files
-La Sabiduría de los Mitos
+[Batman Silver Age](http://lamansion-crg.net/forum/index.php?showtopic=37888)  
+[Baffling Mysterie](https://comicbookplus.com/?cid=861)  
+[Carrillo](http://lamansion-crg.net/forum/index.php?showtopic=101301&hl=carrillo)  
+[Dossier Negro](http://lamansion-crg.net/forum/index.php?showtopic=31027)  
+[Flash Gordon](https://mega.nz/folder/MQEEFISD#fSMNs357-OZOVaseSnFoHw)  
+[Forbidden Worlds](https://comicbookplus.com/?cid=874)  
+[Iznogud](https://mega.nz/folder/0M9ViZyb#afgnEpXYdcteKJ7flwUnyw)  
+[Judge Dredd – The Complete Case Files](https://getcomics.org/other-comics/judge-dredd-the-complete-case-files-vol-1-20/)  
+[La Sabiduría de los Mitos](https://mega.nz/folder/BZlWWS6Y#8-HNpHg6alP-S6QjPd74Lg)
 
-REVISAR
+## REVISAR
 
-EC Style
+[EC Style](https://comicbookplus.com/forum/?topic=549.0)
 
-✈️ DRONES ✈️
-DJI Neo - Release Notes
-DJI Flip - Release Notes
-HOVERAir X1 Pro - Release Notes
-Litchi Pilot
+# ✈️ DRONES ✈️
+[DJI Flip - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=330718&extra=page%3D1%26filter%3Dtypeid%26typeid%3D944%26typeid%3D944)  
+[DJI Mini 4 Pro - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=347194&extra=page%3D1%26filter%3Dtypeid%26typeid%3D915%26typeid%3D915)  
+[DJI Mini 5 Pro - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=345440&extra=page%3D1%26filter%3Dtypeid%26typeid%3D915%26typeid%3D915)  
+[DJI Neo - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=317705&extra=page%3D1%26filter%3Dtypeid%26typeid%3D934%26typeid%3D934)  
+[DJI Neo 2 - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=347890&extra=page%3D1%26filter%3Dtypeid%26typeid%3D933%26typeid%3D933)  
+[DJI Osmo 360 - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=343806)  
+[HOVERAir X1 Pro - Release Notes](https://hoverair.com/pages/release-notes-firmware-version)  
+[Litchi Pilot](https://flylitchi.com/whats-new?a=com.flylitchi.litchipilot.dji&c=beta)
 
-VÍDEOS
-
-DJI Mini 4 Pro - Efecto Vértigo
-
-🎞️ EDICIÓN 🎞️
+# 🎞️ EDICIÓN 🎞️
 Doom Text Generator
 
 VÍDEOS
@@ -101,6 +101,9 @@ Xiaomi Redmi Note 7 (lavender)
 
 RECURSOS
 GRÁFICOS
+
+[FreeEAN-13](https://barcodes.pro/generator/ean13)  
+[FreeQRCode](https://www.uniqode.com/qr-code-generator)
 
 GenQRCode
 LaunchBox
