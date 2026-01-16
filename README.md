@@ -109,6 +109,10 @@
 
 [FreePD](https://freepd.com/upbeat.php)
 
+## OTROS
+
+[Sintaxis Github](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 # 💾 SOFTWARE 💾
 
 ## ADOBE
