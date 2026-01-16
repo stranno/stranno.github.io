@@ -113,7 +113,7 @@
 
 ## ADOBE
 
-[GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides)
+[GenP](https://wiki.dbzer0.com/genp-guides/guide/)
 
 ## PIRACY
 
