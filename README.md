@@ -99,6 +99,7 @@
 
 ## GRÁFICOS
 
+[DJI Press Images](https://www.mynewsdesk.com/uk/dji/latest_media)
 [FreeEAN-13](https://barcodes.pro/generator/ean13)  
 [FreeQRCode](https://www.uniqode.com/qr-code-generator)  
 [GenQRCode](https://genqrcode.com/)  
