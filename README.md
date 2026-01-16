@@ -36,97 +36,98 @@
 [Litchi Pilot](https://flylitchi.com/whats-new?a=com.flylitchi.litchipilot.dji&c=beta)
 
 # 🎞️ EDICIÓN 🎞️
-Doom Text Generator
 
-VÍDEOS
+[Doom Text Generator](https://c.eev.ee/doom-text-generator/)
 
-Bordes Fáciles Premiere
-Máscaras Premiere
+## VÍDEOS
 
-🕹️ JUEGOS 🕹️
-Bios Pack
-ElAmigos
-Myrienth
+[Bordes Fáciles Premiere](https://www.youtube.com/watch?v=2P0R_bDDaIM)  
+[Máscaras Premiere](https://www.youtube.com/watch?v=k5DfPwP3UHA&t=363s)
 
-📖 LIBROS 📖
-40K
+# 🕹️ JUEGOS 🕹️
+[Bios Pack](https://github.com/Abdess/retroarch_system)  
+[ElAmigos](https://elamigos.site/)  
+[Myrienth](https://myrient.erista.me/files/)
 
-ExVagos 40K
-ExVagos 40K 2
-ExVagos 40K 3
-Libros de Custodes
-Orden de lectura de la Herejía de Horus
-Proyecto Scriptorum
+# 📖 LIBROS 📖
 
-PULP
+## 40K
 
-Sisyphus Repo
+[ExVagos 40K](https://www.exvagos.org/threads/warhammer-40k-epub.1212041/)   
+[ExVagos 40K 2](https://www.exvagos.org/threads/warhammer-40000.328640/)  
+[ExVagos 40K 3](https://www.exvagos.org/threads/warhammer-40k-fantasy-etc-epub-pdf.1213275/)  
+[Libros de Custodes](https://www.reddit.com/r/40kLore/comments/y7ekk9/custodes_book_recommendations/)   
+[Orden de lectura de la Herejía de Horus](https://web.archive.org/web/20220125115952/https://adeptvs.com/foro/index.php?topic=9079.0)  
+[Proyecto Scriptorum](https://www.facebook.com/people/Proyecto-Scriptorum/100083084991341/)  
 
-🎧 MÚSICA 🎧
-DAB Music (FLAC)
-Lucida (Descarga Spotify, Deezer, etc)
+## PULP
 
-📱 MÓVILES 📱
-DRIVE
+[Sisyphus Repo](https://archive.org/details/@sisyphus_libre)
 
-Jelly Repo /d
-Xiaomi Mix Fold 3 EliteRom Repo /d (babylon)
-Xiaomi Mix Fold 3 EliteRom Repo 2025 /d (babylon)
-FCC DJI Fly
+# 🎧 MÚSICA 🎧
+[DAB Music](https://dabplayer.vercel.app/) (FLAC)  
+[Lucida](https://lucida.to/) (Descarga Spotify, Deezer, etc)
 
-FIRMWARES
+# 📱 MÓVILES 📱
 
-LG Wing
-LG Wing ALT
-Nubia Z20
+## DRIVE
 
-HILOS
+[Jelly Repo](https://drive.google.com/drive/folders/0By1nhWOmuw2KdDhTUlFOZHpXQjg?resourcekey=0-KHJPIYVPw2iHL--cceWyaw) /d  
+[Xiaomi Mix Fold 3 EliteRom Repo](https://drive.google.com/drive/folders/1JmOt5Tp-URQMYUuXBqrzMAZaevzhmZzt) /d (babylon)  
+[Xiaomi Mix Fold 3 EliteRom Repo 2025](https://drive.google.com/drive/folders/1Fv_XKgGijLPzog36Iffhd5u8i3uPcZUu) /d (babylon)  
+[FCC DJI Fly](https://drive.google.com/drive/folders/1No6Y6900jugASpW_LB7UDL6GevH4WVg5)
 
-OnePlus 12 Index
+## FIRMWARES
 
-PENDIENTES
+[LG Wing](https://lgrom.com/firmware/LMF100EMW)  
+[LG Wing ALT](https://lg-firmwares.com/es/lg-lmf100emw-firmwares/)  
+[Nubia Z20](https://support.halabtech.com/index.php?a=downloads&b=folder&id=94869)
 
-How to use the SP Flash Tool for MTK based devices
-Unisoc / Spreadtrum Upgrade, Factory & Research Download Tools
-How to use Miracle Box to backup Unisoc / Spreadtrum (SPD) firmware
-How to unlock Unisoc (SPD) bootloader using Identifier Token
+## HILOS
 
-XDA
+[OnePlus 12 Index](https://xdaforums.com/t/index-oneplus-12-roms-kernels-mods-tweaks-development-25-05-2024.4657133/)
 
-Nvidia Tablet K1 (shieldtablet)
-OnePlus 7 (guacamoleb)
-OnePlus 12 (waffle)
-Unihertz Jelly Star /r (g58v89c2k)
-Xiaomi Redmi Note 7 (lavender)
+## XDA
 
-RECURSOS
-GRÁFICOS
+[Nvidia Tablet K1](https://xdaforums.com/c/nvidia-shield-tablet.3454/) (shieldtablet)  
+[OnePlus 7](https://xdaforums.com/c/oneplus-7.8833/) (guacamoleb)  
+[OnePlus 12](https://xdaforums.com/f/oneplus-12.12820/) (waffle)  
+[Unihertz Jelly Star](https://www.reddit.com/r/UnihertzJelly2/new/) /r (g58v89c2k)  
+[Xiaomi Redmi Note 7](https://xdaforums.com/f/xiaomi-redmi-note-7-roms-kernels-recoveries-o.8504/) (lavender)
+
+# RECURSOS
+
+## GRÁFICOS
 
 [FreeEAN-13](https://barcodes.pro/generator/ean13)  
-[FreeQRCode](https://www.uniqode.com/qr-code-generator)
+[FreeQRCode](https://www.uniqode.com/qr-code-generator)  
+[GenQRCode](https://genqrcode.com/)  
+[LaunchBox](https://gamesdb.launchbox-app.com/)  
+[WorldVectorLogo](https://worldvectorlogo.com/) (SVG)
 
-GenQRCode
-LaunchBox
-WorldVectorLogo (SVG)
+## MÚSICA
 
-MÚSICA
+[FreePD](https://freepd.com/upbeat.php)
 
-FreePD
+# 💾 SOFTWARE 💾
 
-💾 SOFTWARE 💾
-ADOBE
-GenP
+## ADOBE
 
-PIRACY
-CRACKSurl
-RSLoad
+[GenP](https://www.reddit.com/r/GenP/wiki/redditgenpguides)
 
-FOSS
-Free Media Heck Yeah
-Massgrave (Imágenes Windows + Activación)
-Redist-Pack
-Windows 11 Guide
+## PIRACY
 
-📹 VÍDEO 📹
-Docuzone
-ExploradoresP2P
+[CRACKSurl](https://cracksurl.com/)  
+[RSLoad](https://rsload.net/)
+
+## FOSS
+
+[Free Media Heck Yeah](https://fmhy.net/)  
+[Massgrave](https://massgrave.dev/) (Imágenes Windows + Activación)  
+[Redist-Pack](https://github.com/ionuttbara/redist-pack/releases)  
+[Windows 11 Guide](https://github.com/mikeroyal/Windows-11-Guide)
+
+# 📹 VÍDEO 📹
+
+[Docuzone](http://www.docuzone.tv/index.php?action=NovedadesDD)  
+[ExploradoresP2P](https://exploradoresp2p.com/html_tema48169.html)
