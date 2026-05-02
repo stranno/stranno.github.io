@@ -47,7 +47,7 @@
 # 🕹️ JUEGOS 🕹️
 [Bios Pack](https://github.com/Abdess/retroarch_system)  
 [ElAmigos](https://elamigos.site/)  
-[iOS Obscura Locator](https://iphoneosobscura.litten.ca/) 
+[iOS Obscura Locator](https://iphoneosobscura.litten.ca/)  
 [Myrienth](https://myrient.erista.me/files/)
 
 # 📖 LIBROS 📖
