@@ -48,7 +48,12 @@
 [Bios Pack](https://github.com/Abdess/retroarch_system)  
 [ElAmigos](https://elamigos.site/)  
 [iOS Obscura Locator](https://iphoneosobscura.litten.ca/)  
-[Myrienth](https://myrient.erista.me/files/)
+[Megathread](https://r-roms.github.io/)  
+
+## PS3
+
+[Keys](https://ps3.aldostools.org/dkey.html)  
+[Updates](https://ps3.aldostools.org/updates.html)  
 
 # 📖 LIBROS 📖
 
