@@ -26,11 +26,12 @@
 [EC Style](https://comicbookplus.com/forum/?topic=549.0)
 
 # ✈️ DRONES ✈️
-[DJI Flip - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=330718&extra=page%3D1%26filter%3Dtypeid%26typeid%3D944%26typeid%3D944)  
-[DJI Mini 4 Pro - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=347194&extra=page%3D1%26filter%3Dtypeid%26typeid%3D915%26typeid%3D915)  
-[DJI Mini 5 Pro - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=345440&extra=page%3D1%26filter%3Dtypeid%26typeid%3D915%26typeid%3D915)  
-[DJI Neo - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=317705&extra=page%3D1%26filter%3Dtypeid%26typeid%3D934%26typeid%3D934)  
-[DJI Neo 2 - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=347890&extra=page%3D1%26filter%3Dtypeid%26typeid%3D933%26typeid%3D933)  
+[DJI Avata 360 - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=350696)  
+[DJI Flip - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=330718)  
+[DJI Mini 4 Pro - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=347194)  
+[DJI Mini 5 Pro - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=345440)  
+[DJI Neo - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=317705)  
+[DJI Neo 2 - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=347890)  
 [DJI Osmo 360 - Release Notes](https://forum.dji.com/forum.php?mod=viewthread&tid=343806)  
 [HOVERAir X1 Pro - Release Notes](https://hoverair.com/pages/release-notes-firmware-version)  
 [Litchi Pilot](https://flylitchi.com/whats-new?a=com.flylitchi.litchipilot.dji&c=beta)
